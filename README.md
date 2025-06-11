@@ -30,6 +30,7 @@
 
 ## <span id="clone-run"></span><img src="./assets/pwsh.png" alt="PowerShell Icon" width="24" style="vertical-align: middle;">  Clone & Run
 
+```powershell
 git clone https://github.com/hedglen/Warp_Setup.git
 cd Warp_Setup
 .\install.ps1
