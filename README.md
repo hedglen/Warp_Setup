@@ -6,7 +6,7 @@
   <a href="./Warp_Setup/LICENSE">
     <img src="https://img.shields.io/badge/⚖️%20License-purple?style=for-the-badge" alt="License Badge">
   </a>
-  <a href="./Warp_Setup/CONTRIBUTE.md">
+  <a href="alt=&quot;License Button&quot;&gt;">
     <img src="https://img.shields.io/badge/🤝%20CONTRIBUTE-blue?style=for-the-badge" alt="Contribute Badge">
   </a>
 </p>
