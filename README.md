@@ -1,6 +1,6 @@
 # Warp_Setup 🚀
 
-Your personalized PowerShell + Warp terminal setup.
+<p align="center"><em>⚡ Custom Hedglab.dev terminal setup powered by Warp + PowerShell</em></p>
 
 ## What's Included
 - `Microsoft.PowerShell_profile.ps1` → Your fully styled terminal brain
@@ -10,6 +10,8 @@ Your personalized PowerShell + Warp terminal setup.
 <p align="center">
   <img src="./assets/Warp_Preview.png" width="800"/>
 </p>
+
+<p align="center"><em>⚡ Custom Hedglab.dev terminal setup powered by Warp + PowerShell</em></p>
 
 ## 🧠 Install Instructions
 
