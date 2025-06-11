@@ -1,6 +1,6 @@
 <h1 align="center">Warp Setup 🚀</h1>
 <p align="center">
-  <a href="#clone--run">
+  <a href="#Install">
     <img src="https://img.shields.io/badge/-%20Clone%20&%20Run-green?style=for-the-badge&logo=github&logoColor=white" alt="Install Badge">
   </a>
   <a href="./Warp_Setup/LICENSE">
