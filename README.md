@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#-install-instructions">
     <img src="https://img.shields.io/badge/Clone%20%26%20Run-444444?style=for-the-badge&logo=github" alt="Clone & Run Badge">
-  </a>
+</a>
   <a href="LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative" alt="MIT License Badge">
 </a>
