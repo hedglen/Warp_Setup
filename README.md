@@ -1,5 +1,9 @@
 <h1 align="center">Warp_Setup 🚀</h1>
 
+![PowerShell](https://img.shields.io/badge/Install-PowerShell-blueviolet?style=for-the-badge&logo=powershell)
+[![Clone Repo](https://img.shields.io/badge/Setup-Clone%20%26%20Run%20Install.ps1-232323?style=for-the-badge&logo=github)](https://github.com/hedglen/Warp_Setup#-install-instructions)
+
+
 <p align="center">
   <em>⚡ Custom Hedglab.dev terminal setup powered by Warp + PowerShell</em>
 </p>
