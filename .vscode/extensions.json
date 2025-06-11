@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "bierner.markdown-preview-github-styles",
+    "eamodio.gitlens",
+    "oderwat.indent-rainbow",
+    "ms-vscode.powershell",
+    "formulahendry.terminal"
+  ]
+}
