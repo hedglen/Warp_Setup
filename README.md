@@ -1,5 +1,4 @@
 <h1 align="center">Warp_Setup 🚀</h1>
-
 <p align="center">
   <a href="#-install-instructions">
     <img src="https://img.shields.io/badge/Clone%20%26%20Run-444444?style=for-the-badge&logo=github" alt="Clone & Run Badge">
