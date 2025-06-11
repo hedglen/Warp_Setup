@@ -9,6 +9,10 @@
 
 <p align="center"><em>⚡ Custom Hedglab.dev terminal setup powered by Warp + PowerShell</em></p>
 
+<p align="center">
+  <img src="./assets/Warp_Preview.png" alt="Warp Terminal Preview" width="800">
+</p>
+
 
 ---
 
