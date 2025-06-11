@@ -7,6 +7,10 @@ Your personalized PowerShell + Warp terminal setup.
 - `hedglab.omp.json` → Custom Oh My Posh prompt
 - `install.ps1` → One-command setup script
 
+<p align="center">
+  <img src="./assets/Warp_Preview.png" width="800"/>
+</p>
+
 ## 🧠 Install Instructions
 
 ```powershell
