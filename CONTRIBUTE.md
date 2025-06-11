@@ -1,4 +1,4 @@
-# Contributing to Warp_Setup
+# Contribute to Warp_Setup
 
 Thanks for your interest in improving this project! Here's how to help:
 
