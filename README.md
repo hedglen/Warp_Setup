@@ -8,8 +8,6 @@
   </a>
 </p>
 
----
-
 </a>
 
 <p align="center">
