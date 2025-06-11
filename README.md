@@ -1,7 +1,6 @@
 <h1 align="center">Warp_Setup 🚀</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Install-blue?style=for-the-badge&logo=powershell" alt="Install Badge">
   <a href="#-install-instructions">
     <img src="https://img.shields.io/badge/Clone%20%26%20Run-install.ps1-444444?style=for-the-badge&logo=github" alt="Install.ps1 Badge">
   </a>
@@ -9,6 +8,7 @@
     <img src="https://img.shields.io/badge/Contribute-blue?style=for-the-badge&logo=github" alt="Contribute Badge">
   </a>
 </p>
+
 
 
 
