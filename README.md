@@ -2,15 +2,14 @@
 
 <p align="center">
   <a href="#-install-instructions">
-    <img src="https://img.shields.io/badge/INSTALL-%F0%9F%9A%80-black?style=for-the-badge" alt="Install">
+    <img src="https://img.shields.io/badge/INSTALL-CLI-000000?style=for-the-badge" alt="Install Badge">
   </a>
-  <a href="./powershell/Microsoft.PowerShell_profile.ps1">
-    <img src="https://img.shields.io/badge/POWERSHELL-Terminal-blueviolet?style=for-the-badge" alt="PowerShell">
+  <a href="https://github.com/hedglen/Warp_Setup/blob/main/install.ps1">
+    <img src="https://img.shields.io/badge/RUN%20install.ps1-Terminal-blueviolet?style=for-the-badge&logo=powershell" alt="Install Script Badge">
   </a>
-  <a href="./oh-my-posh/hedglab.omp.json">
-    <img src="https://img.shields.io/badge/OH%20MY%20POSH-prompt-magenta?style=for-the-badge" alt="Oh My Posh">
+  <a href="https://github.com/hedglen/Warp_Setup/blob/main/oh-my-posh/hedglab.omp.json">
+    <img src="https://img.shields.io/badge/PROMPT-hedglab.omp.json-magenta?style=for-the-badge" alt="Prompt Theme Badge">
   </a>
-  
 </p>
 
 <p align="center"><em>⚡ Custom Hedglab.dev terminal setup powered by Warp + PowerShell</em></p>
