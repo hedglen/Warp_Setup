@@ -2,13 +2,12 @@
 
 <p align="center">
   <a href="#-install-instructions">
-    <img src="https://img.shields.io/badge/Clone%20%26%20Run-install.ps1-444444?style=for-the-badge&logo=github" alt="Install.ps1 Badge">
+    <img src="https://img.shields.io/badge/Clone%20%26%20Run-setup-444444?style=for-the-badge&logo=github" alt="Clone & Run Badge">
   </a>
   <a href="CONTRIBUTING.md">
     <img src="https://img.shields.io/badge/Contribute-blue?style=for-the-badge&logo=github" alt="Contribute Badge">
   </a>
 </p>
-
 
 
 
