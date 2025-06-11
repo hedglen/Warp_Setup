@@ -7,6 +7,10 @@
   <a href="./powershell/Microsoft.PowerShell_profile.ps1">
     <img src="https://img.shields.io/badge/POWERSHELL-Terminal-blueviolet?style=for-the-badge" alt="PowerShell">
   </a>
+  <a href="./oh-my-posh/hedglab.omp.json">
+    <img src="https://img.shields.io/badge/OH%20MY%20POSH-prompt-magenta?style=for-the-badge" alt="Oh My Posh">
+  </a>
+  
 </p>
 
 <p align="center"><em>⚡ Custom Hedglab.dev terminal setup powered by Warp + PowerShell</em></p>
