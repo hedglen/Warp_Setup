@@ -1,36 +1,37 @@
-<h1 align="center">Warp_Setup 🚀</h1>
-
+<h1 align="center">Warp Setup 🚀</h1>
 <p align="center">
   <a href="#-install-instructions">
-    <img src="https://img.shields.io/badge/Clone%20%26%20Run-setup-44cc44?style=for-the-badge&logo=github" alt="Clone & Run Badge">
+    <img src="https://img.shields.io/badge/-%20Clone%20&%20Run-green?style=for-the-badge&logo=github&logoColor=white" alt="Clone & Run Badge">
   </a>
-  <a href="LICENSE.txt">
-    <img src="https://img.shields.io/badge/LICENSE-purple?style=for-the-badge&logo=github" alt="License Badge">
+  <a href="./Warp_Setup/LICENSE">
+    <img src="https://img.shields.io/badge/⚖️%20License-purple?style=for-the-badge" alt="License Badge">
   </a>
-  <a href="CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contribute-blue?style=for-the-badge&logo=github" alt="Contribute Badge">
+  <a href="./Warp_Setup/CONTRIBUTE.md">
+    <img src="https://img.shields.io/badge/🤝%20CONTRIBUTE-blue?style=for-the-badge" alt="Contribute Badge">
   </a>
 </p>
 
-</a>
+<p align="center"><em>⚡ Custom Hedglab.dev terminal setup powered by Warp + PowerShell</em></p>
 
 <p align="center">
   <img src="./assets/Warp_Preview.png" alt="Warp Terminal Preview" width="800">
 </p>
 
+
 ---
 
 ## 📦 What's Included
 
-- `Microsoft.PowerShell_profile.ps1` → Your fully styled terminal brain  
-- `hedglab.omp.json` → Custom Oh My Posh prompt  
+- `Microsoft.PowerShell_profile.ps1` → Your fully styled terminal brain
+- `hedglab.omp.json` → Custom Oh My Posh prompt
 - `install.ps1` → One-command setup script
 
 ---
 
-## 🌸 Install Instructions
+## <img src="https://img.shields.io/badge/-PowerShell-0ff0fc?style=flat-square&logo=windows-terminal&logoColor=black" alt="PowerShell" height="20"/> Install Instructions
 
 ```powershell
 git clone https://github.com/hedglen/Warp_Setup.git
 cd Warp_Setup
 .\install.ps1
+```
