@@ -1,12 +1,13 @@
 <h1 align="center">Warp Setup 🚀</h1>
+
 <p align="center">
- <a href="#clone--run">
+ <a href="#-install">
   <img src="https://img.shields.io/badge/-%20Install-44cc44?style=for-the-badge&logo=github&logoColor=white" alt="Install Badge">
 </a>
-  <a href="./Warp_Setup/LICENSE">
-    <img src="https://img.shields.io/badge/⚖️%20License-purple?style=for-the-badge" alt="License Badge">
+  <a href="https://github.com/hedglen/Warp_Setup/blob/master/LICENSE.txt">
+    <img src="https://img.shields.io/badge/⚖️%20LICENSE-purple?style=for-the-badge" alt="License Badge">
   </a>
-  <a href="./Warp_Setup/CONTRIBUTE.md">
+  <a href="https://github.com/hedglen/Warp_Setup/blob/master/CONTRIBUTE.md">
     <img src="https://img.shields.io/badge/🤝%20CONTRIBUTE-blue?style=for-the-badge" alt="Contribute Badge">
   </a>
 </p>
@@ -27,9 +28,8 @@
 
 ---
 
-## 📦 Clone & Run
+## <img src="./assets/pwsh.png" alt="PowerShell Icon" width="24" style="vertical-align: middle;"> Clone & Run
 
-```powershell
 git clone https://github.com/hedglen/Warp_Setup.git
 cd Warp_Setup
 .\install.ps1
