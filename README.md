@@ -6,7 +6,7 @@
   <a href="./Warp_Setup/LICENSE">
     <img src="https://img.shields.io/badge/⚖️%20License-purple?style=for-the-badge" alt="License Badge">
   </a>
-  <a href="alt=&quot;License Button&quot;&gt;">
+  <a href="./Warp_Setup/CONTRIBUTE.md">
     <img src="https://img.shields.io/badge/🤝%20CONTRIBUTE-blue?style=for-the-badge" alt="Contribute Badge">
   </a>
 </p>
@@ -16,7 +16,6 @@
 <p align="center">
   <img src="./assets/Warp_Preview.png" alt="Warp Terminal Preview" width="800">
 </p>
-
 
 ---
 
@@ -28,10 +27,9 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/-PowerShell-0ff0fc?style=flat-square&logo=windows-terminal&logoColor=black" alt="PowerShell" height="20"/> Install Instructions
+## 📦 Clone & Run
 
-```powershell
+What's Included
 git clone https://github.com/hedglen/Warp_Setup.git
 cd Warp_Setup
 .\install.ps1
-```
