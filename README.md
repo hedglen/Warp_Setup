@@ -1,9 +1,11 @@
 <h1 align="center">Warp_Setup 🚀</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Install-PowerShell-blueviolet?style=for-the-badge&logo=powershell" alt="Install Badge">
-  <img src="https://img.shields.io/badge/Setup-Terminal%20Ready-232323?style=for-the-badge&logo=windowsterminal" alt="Setup Badge">
   <a href="#-install-instructions">
-    <img src="https://img.shields.io/badge/Clone%20&%20Run-install.ps1-444444?style=for-the-badge&logo=github" alt="Install.ps1 Badge">
+    <img src="https://img.shields.io/badge/INSTALL-%F0%9F%9A%80-black?style=for-the-badge" alt="Install">
+  </a>
+  <a href="./powershell/Microsoft.PowerShell_profile.ps1">
+    <img src="https://img.shields.io/badge/POWERSHELL-Terminal-blueviolet?style=for-the-badge" alt="PowerShell">
   </a>
 </p>
 
